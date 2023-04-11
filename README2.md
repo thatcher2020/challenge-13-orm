@@ -4,17 +4,6 @@
 
 This application is a back end for an e-commerce site. It uses Express.js API and Sequelize to interact with a MySQL database.
 
-## Installation
-use the following command to install dependencies:
-
-```bash
-'npm i'
-```
-npm run seed
-
-then run 'npm start' to run the application
-
-
 ## Credits
 
 N/A
